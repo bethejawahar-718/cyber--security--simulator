@@ -1,6 +1,3 @@
-// CyberVerse — Shared logic for Roadmaps, Courses, Labs & AI Mentors pages
-
-// ---------- LABS DATA ----------
 const LABS = [
     {
         id: "lab1", num: "01", level: "beginner", duration: "45 min",
