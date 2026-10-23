@@ -1,5 +1,3 @@
-// CyberVerse — Learning Module Content & Progress Tracking
-
 const LEVEL_INFO = {
     1: { label: "Level 1 · Foundations", short: "Foundations", description: "The core ideas every learner needs before going further." },
     2: { label: "Level 2 · Core Skills", short: "Core Skills", description: "Practical skills and techniques used on the job every day." },
